@@ -8,4 +8,31 @@ body {
     background-image: url("Gitkuvat/PogChamp.jpg");
     background-repeat: repeat;
 
+
 }
+
+
+
+h1 {
+
+    border: 10px solid green;
+    
+
+}
+
+p {
+
+    background-color: chocolate;
+    border-radius: 10px 20px 30px 40px;
+    margin: 5px ;
+    border-style: groove;
+
+}
+
+
+
+
+
+
+
+
