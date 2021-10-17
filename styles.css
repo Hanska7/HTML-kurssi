@@ -30,12 +30,12 @@ p {
 }
 
 
+.row {
 
-.widget {
-
-
+    background-color: black;
+    font: white;
     box-sizing: content-box;
-    
+
   }
 
 
