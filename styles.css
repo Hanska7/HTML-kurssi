@@ -31,7 +31,12 @@ p {
 
 
 
+.widget {
 
+
+    box-sizing: content-box;
+    
+  }
 
 
 
